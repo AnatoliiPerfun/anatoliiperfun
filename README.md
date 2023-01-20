@@ -46,4 +46,6 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
 </picture>
+
+
 ![github contribution grid snake animation](https://github.com/AnatoliiPerfun/anatoliiperfun/blob/output/github-user-contribution.svg#gh-dark-mode-only)
