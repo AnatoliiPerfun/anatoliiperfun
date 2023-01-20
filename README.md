@@ -25,6 +25,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-BDC148?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-5F06B8.svg?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 ![IntelliJIDEA](https://img.shields.io/badge/IJ-IntelliJ%20IDEA-143?style=for-the-badge&logo=intellij&logoColor=blue&color=red&labelColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-808080?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
@@ -34,18 +35,17 @@
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-%235835CC.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp; -->
 <!-- ![Angular](https://img.shields.io/badge/Angular-EE0000?style=for-the-badge&logo=angular&logoColor=white)&nbsp; -->
-<!-- ![Terraform](https://img.shields.io/badge/Terraform-5F06B8.svg?style=for-the-badge&logo=terraform&logoColor=white)&nbsp; -->
-##
 
+##
 
 | <a href="https://github.com/anatoliiperfun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anatoliiperfun&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Anatolii's github stats" /></a> | <a href="https://github.com/anatoliiperfun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatoliiperfun&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
-</picture>
+</picture> -->
 
 
 ![github contribution grid snake animation](https://github.com/AnatoliiPerfun/anatoliiperfun/blob/output/github-user-contribution.svg#gh-dark-mode-only)
