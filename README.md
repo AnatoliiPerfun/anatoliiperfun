@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-%23FA0F00?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%20sharp-280068?style=for-the-badge&logo=C%20sharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![ApacheKafka](https://img.shields.io/badge/ApacheKafka-000000.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white)&nbsp;
 ![Mongo](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -32,7 +33,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; -->
+
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-%235835CC.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp; -->
 <!-- ![Angular](https://img.shields.io/badge/Angular-EE0000?style=for-the-badge&logo=angular&logoColor=white)&nbsp; -->
 
