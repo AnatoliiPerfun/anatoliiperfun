@@ -30,7 +30,7 @@
 ![Figma](https://img.shields.io/badge/Figma-808080?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
-
+![Conduktor](https://img.shields.io/badge/Conduktor-%23172BF4.svg?style=for-the-badge&logo=Conduktor&logoColor=white)&nbsp;
 
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-%235835CC.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp; -->
 <!-- ![Angular](https://img.shields.io/badge/Angular-EE0000?style=for-the-badge&logo=angular&logoColor=white)&nbsp; -->
