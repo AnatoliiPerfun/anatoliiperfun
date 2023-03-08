@@ -1,6 +1,6 @@
 ## Welcome to my GitHome page!
 
-- 🧓 Hi, I am a software developer with over three years of professional experience. 
+- 🧓 Hi, I am a software developer with over three years of experience. 
 - 🌱 I'm big fun of Cloud systems (AWS, GCP, Azure) as well as Java, Scala, SpringBoot, MongoDB, etc.
 - 🔭 My future goal is to become more familiar with AI and ML technologies.
 
