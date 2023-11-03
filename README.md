@@ -1,8 +1,5 @@
 ## Welcome to my GitHome page!
 
-
-## Social
-
 <p align="left">
   <a href="https://www.linkedin.com/in/anatoliiperfun" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
