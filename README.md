@@ -1,16 +1,16 @@
-### Hi there 👋
+## Welcome to my GitHome page!
 
-<!--
-**AnatoliiPerfun/anatoliiperfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Social
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/anatoliiperfun" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+## Skills:
+
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,githubactions,ansible,kubernetes,docker,java,spring,go,python,kafka,redis,nginx,postgres,graphql,tensorflow,unreal,postman&perline=10)](https://skillicons.dev)
+
+
